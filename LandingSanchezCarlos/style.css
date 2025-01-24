@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 2em 8em;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+p {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 2em;
+    padding: 20px;
+    max-width: 800px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+ul li, ol li {
+    margin-bottom: 10px;
+}
+
+section ul li {
+    font-size: 1em;
+    color: #555;
+}
+
+/* h1:first-of-type {
+    text-align: center;
+    margin-top: 20px;
+} */
